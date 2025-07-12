@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning/polishing **backend development, cloud (AWS), cybersecurity basics, Machine Learning, and data structures & algorithms.**
 
-- 📫 How to reach me? Just hit me up on **akshat3679@gmail.comor just my insta, whatever floats your boat.**
+- 📫 How to reach me? Just hit me up on **akshat3679@gmail.com** or just my insta, whatever floats your boat.
 
 - ⚡ Fun fact about me, **Currently training to become the world’s first bio-coder-entrepreneur-philosopher-standup-comedian.**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akshatkumar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatkumar16" height="30" width="40" /></a>
 <a href="https://instagram.com/akshaaaaaaaaaaaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshaaaaaaaaaaaat" height="30" width="40" /></a>
-<a href="https://www.leetcode.comu/akshatkumarlc16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akshatkumarlc16/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/akshatkumarlc16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akshatkumarlc16/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
