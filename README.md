@@ -1,4 +1,4 @@
-<h1 align="center">Heya👋, I'm **Akshat Kumar** </h1>
+<h1 align="center">Heya👋, I'm <strong>Akshat Kumar</strong></h1>
 <h3 align="center">A passionate student of Comp Science and Bio at IIIT-Delhi. I'm currently in the Pre-Final Year of my Bachelors, exploring the intersection of technology and biology.</h3>
 
 - 🌱 I’m currently learning/polishing **backend development, cloud (AWS), cybersecurity basics, Machine Learning, and data structures & algorithms.**
