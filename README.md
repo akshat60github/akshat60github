@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning/polishing **backend development, cloud (AWS), cybersecurity basics, Machine Learning, and data structures & algorithms.**
 
-- 📫 How to reach me? Just hit me up on **akshat3679@gmail.com** or just my insta, whatever floats your boat.
+- 📫 How to reach me? Just hit me up on **akshat3679@gmail.com** or my insta, whatever floats your boat.
 
 - ⚡ Fun fact about me, **Currently training to become the world’s first bio-coder-entrepreneur-philosopher-standup-comedian.**
 
