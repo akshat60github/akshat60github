@@ -2,8 +2,8 @@
 <h3 align="center">A passionate student of Comp Science and Bio at IIIT-Delhi. I'm currently in the Pre-Final Year of my Bachelors, exploring the intersection of technology and biology.</h3>
 
 - 🌱 I’m currently learning/polishing **backend development, cloud (AWS), cybersecurity basics, Machine Learning, and data structures & algorithms.**
-
-- 📫 How to reach me? Just hit me up on **akshat3679@gmail.com** or my insta, whatever floats your boat.
+- My website: <a href="https://tangerine-mochi-708a50.netlify.app" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/5572ec0be4b03d8a8c86a227/1598779945044-3B35D51K1NW0R7EBRY2B/247-2473903_portfolio-logo-png.png" alt="Portfolio" height="30" width="40" /></a>
+- 📫 How to reach me? Just hit me up on **akshat3679@gmail.com** or dm me on the gram, whatever floats your boat.
 
 - ⚡ Fun fact about me, **Currently training to become the world’s first bio-coder-entrepreneur-philosopher-standup-comedian.**
 
