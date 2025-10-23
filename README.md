@@ -5,7 +5,7 @@
 - My website: <a href="https://akshatkumarportfolio.netlify.app/" target="blank"><img align="center" src="https://www.propixtech.com/wp-content/uploads/2021/10/akshat_png.png" alt="Portfolio" height="30" width="40" /></a>
 - 📫 How to reach me? Just hit me up on **akshat3679@gmail.com** or dm me on the gram, whatever floats your boat.
 
-- ⚡ Fun fact about me, **Currently training to become the world’s first bio-coder-entrepreneur-philosopher-standup-comedian.**
+- ⚡ Fun fact about me, **Currently training to become the world’s first bio-coder-entrepreneur-philosopher-spiritual-activist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
